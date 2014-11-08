@@ -70,3 +70,14 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+# =========================
+# QtCreator
+# =========================
+Makefile.Debug
+Makefile.Release
+*.pro.user
+RiskOfRain-Server.pro.user.*
+/Makefile
+/build
+*.rc
